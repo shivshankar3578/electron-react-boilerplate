@@ -1,0 +1,1813 @@
+{
+  "clients": [
+    {
+      "id": 3,
+      "Client_Short_Name": "AES-3",
+      "Client_Formal_Name": "AES Distributed Energy",
+      "Client_Code": "CLI 03",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:56.980Z"
+    },
+    {
+      "id": 4,
+      "Client_Short_Name": "AFS",
+      "Client_Formal_Name": "Affordable Solar",
+      "Client_Code": "CLI 04",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:56.980Z"
+    },
+    {
+      "id": 5,
+      "Client_Short_Name": "ATS",
+      "Client_Formal_Name": "Atersa",
+      "Client_Code": "CLI 05",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:56.980Z"
+    },
+    {
+      "id": 6,
+      "Client_Short_Name": "BEI",
+      "Client_Formal_Name": "Blattner Energy",
+      "Client_Code": "CLI 06",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:56.980Z"
+    },
+    {
+      "id": 70,
+      "Client_Short_Name": "UBS-2",
+      "Client_Formal_Name": "Urbasolar",
+      "Client_Code": "CLI 70",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:56.980Z"
+    },
+    {
+      "id": 71,
+      "Client_Short_Name": "VKR",
+      "Client_Formal_Name": "Vikram Solar",
+      "Client_Code": "CLI 71",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:56.980Z"
+    },
+    {
+      "id": 72,
+      "Client_Short_Name": "VVT",
+      "Client_Formal_Name": "Vivint",
+      "Client_Code": "CLI 72",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:56.980Z"
+    },
+    {
+      "id": 73,
+      "Client_Short_Name": "Welink",
+      "Client_Formal_Name": "Welink Energy",
+      "Client_Code": "CLI 73",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:56.980Z"
+    },
+    {
+      "id": 74,
+      "Client_Short_Name": "ZUE",
+      "Client_Formal_Name": "Zuma energia",
+      "Client_Code": "CLI 74",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:56.980Z"
+    },
+    {
+      "id": 75,
+      "Client_Short_Name": "PGR",
+      "Client_Formal_Name": "Pine Gate Renewables",
+      "Client_Code": "CLI 75",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:56.980Z"
+    },
+    {
+      "id": 64,
+      "Client_Short_Name": "SWL",
+      "Client_Formal_Name": "Sterling and Wilson",
+      "Client_Code": "CLI 64",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:56.980Z"
+    },
+    {
+      "id": 65,
+      "Client_Short_Name": "SWT",
+      "Client_Formal_Name": "Swinerton",
+      "Client_Code": "CLI 65",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:56.980Z"
+    },
+    {
+      "id": 66,
+      "Client_Short_Name": "Tesla",
+      "Client_Formal_Name": "Tesla",
+      "Client_Code": "CLI 66",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:56.980Z"
+    },
+    {
+      "id": 67,
+      "Client_Short_Name": "Todae",
+      "Client_Formal_Name": "Todae Solar",
+      "Client_Code": "CLI 67",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:56.980Z"
+    },
+    {
+      "id": 68,
+      "Client_Short_Name": "Tremayne",
+      "Client_Formal_Name": "Tremayne",
+      "Client_Code": "CLI 68",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:56.980Z"
+    },
+    {
+      "id": 69,
+      "Client_Short_Name": "TSK",
+      "Client_Formal_Name": "TSK",
+      "Client_Code": "CLI 69",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:56.980Z"
+    },
+    {
+      "id": 56,
+      "Client_Short_Name": "SDX",
+      "Client_Formal_Name": "Sonnedix",
+      "Client_Code": "CLI 56",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:56.980Z"
+    },
+    {
+      "id": 58,
+      "Client_Short_Name": "SNTY",
+      "Client_Formal_Name": "Solarcentury",
+      "Client_Code": "CLI 58",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:56.980Z"
+    },
+    {
+      "id": 59,
+      "Client_Short_Name": "SOL",
+      "Client_Formal_Name": "Sol Systems",
+      "Client_Code": "CLI 59",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:56.980Z"
+    },
+    {
+      "id": 60,
+      "Client_Short_Name": "SPO",
+      "Client_Formal_Name": "Sun Power",
+      "Client_Code": "CLI 60",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:56.980Z"
+    },
+    {
+      "id": 61,
+      "Client_Short_Name": "STA",
+      "Client_Formal_Name": "Strata Solar",
+      "Client_Code": "CLI 61",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:56.980Z"
+    },
+    {
+      "id": 63,
+      "Client_Short_Name": "Sunetik",
+      "Client_Formal_Name": "Sunetik",
+      "Client_Code": "CLI 63",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:56.980Z"
+    },
+    {
+      "id": 49,
+      "Client_Short_Name": "REE",
+      "Client_Formal_Name": "Recurrent Energy",
+      "Client_Code": "CLI 49",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:56.980Z"
+    },
+    {
+      "id": 50,
+      "Client_Short_Name": "REISA",
+      "Client_Formal_Name": "REISA",
+      "Client_Code": "CLI 50",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:56.980Z"
+    },
+    {
+      "id": 51,
+      "Client_Short_Name": "Risen",
+      "Client_Formal_Name": "Risen Energy",
+      "Client_Code": "CLI 51",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:56.980Z"
+    },
+    {
+      "id": 52,
+      "Client_Short_Name": "RPO",
+      "Client_Formal_Name": "Renew Power",
+      "Client_Code": "CLI 52",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:56.980Z"
+    },
+    {
+      "id": 53,
+      "Client_Short_Name": "SCA",
+      "Client_Formal_Name": "Scatec Solar",
+      "Client_Code": "CLI 53",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:56.980Z"
+    },
+    {
+      "id": 54,
+      "Client_Short_Name": "SCR",
+      "Client_Formal_Name": "SoCore",
+      "Client_Code": "CLI 54",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:56.980Z"
+    },
+    {
+      "id": 43,
+      "Client_Short_Name": "O2",
+      "Client_Formal_Name": "O2 emc",
+      "Client_Code": "CLI 43",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:56.980Z"
+    },
+    {
+      "id": 44,
+      "Client_Short_Name": "Octopus",
+      "Client_Formal_Name": "Octopus",
+      "Client_Code": "CLI 44",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:56.980Z"
+    },
+    {
+      "id": 45,
+      "Client_Short_Name": "OPG",
+      "Client_Formal_Name": "OPG Power",
+      "Client_Code": "CLI 45",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:56.980Z"
+    },
+    {
+      "id": 46,
+      "Client_Short_Name": "PAC",
+      "Client_Formal_Name": "Pacifico Energy",
+      "Client_Code": "CLI 46",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:56.980Z"
+    },
+    {
+      "id": 47,
+      "Client_Short_Name": "PEG",
+      "Client_Formal_Name": "Phelan Energy Group",
+      "Client_Code": "CLI 47",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:56.980Z"
+    },
+    {
+      "id": 48,
+      "Client_Short_Name": "RCR",
+      "Client_Formal_Name": "RCR",
+      "Client_Code": "CLI 48",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:56.980Z"
+    },
+    {
+      "id": 37,
+      "Client_Short_Name": "M+W",
+      "Client_Formal_Name": "M+W Group",
+      "Client_Code": "CLI 37",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:56.980Z"
+    },
+    {
+      "id": 38,
+      "Client_Short_Name": "MHS",
+      "Client_Formal_Name": "Mahindra",
+      "Client_Code": "CLI 38",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:56.980Z"
+    },
+    {
+      "id": 39,
+      "Client_Short_Name": "MNL",
+      "Client_Formal_Name": "Mc Nally",
+      "Client_Code": "CLI 39",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:56.980Z"
+    },
+    {
+      "id": 40,
+      "Client_Short_Name": "MYA",
+      "Client_Formal_Name": "Mytrah",
+      "Client_Code": "CLI 40",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:56.980Z"
+    },
+    {
+      "id": 41,
+      "Client_Short_Name": "NAR",
+      "Client_Formal_Name": "NARENCO",
+      "Client_Code": "CLI 41",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:56.980Z"
+    },
+    {
+      "id": 42,
+      "Client_Short_Name": "NEE",
+      "Client_Formal_Name": "NextEra Energy",
+      "Client_Code": "CLI 42",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:56.980Z"
+    },
+    {
+      "id": 31,
+      "Client_Short_Name": "JUW",
+      "Client_Formal_Name": "juwi",
+      "Client_Code": "CLI 31",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:56.980Z"
+    },
+    {
+      "id": 32,
+      "Client_Short_Name": "KEC",
+      "Client_Formal_Name": "Kootenai Electric Intl",
+      "Client_Code": "CLI 32",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:56.980Z"
+    },
+    {
+      "id": 33,
+      "Client_Short_Name": "LEL AU",
+      "Client_Formal_Name": "Lendlease Australia",
+      "Client_Code": "CLI 33",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:56.980Z"
+    },
+    {
+      "id": 34,
+      "Client_Short_Name": "LEL US",
+      "Client_Formal_Name": "Lendlease USA",
+      "Client_Code": "CLI 34",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:56.980Z"
+    },
+    {
+      "id": 35,
+      "Client_Short_Name": "LONGi",
+      "Client_Formal_Name": "Longi Solar",
+      "Client_Code": "CLI 35",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:56.980Z"
+    },
+    {
+      "id": 36,
+      "Client_Short_Name": "LSO",
+      "Client_Formal_Name": "Lightsource",
+      "Client_Code": "CLI 36",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:56.980Z"
+    },
+    {
+      "id": 25,
+      "Client_Short_Name": "Greencells",
+      "Client_Formal_Name": "Greencells",
+      "Client_Code": "CLI 25",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:56.980Z"
+    },
+    {
+      "id": 26,
+      "Client_Short_Name": "Greenko",
+      "Client_Formal_Name": "Greenko",
+      "Client_Code": "CLI 26",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:56.980Z"
+    },
+    {
+      "id": 27,
+      "Client_Short_Name": "HEO",
+      "Client_Formal_Name": "Hero Future Energies",
+      "Client_Code": "CLI 27",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:56.980Z"
+    },
+    {
+      "id": 28,
+      "Client_Short_Name": "IGA",
+      "Client_Formal_Name": "Lenergia",
+      "Client_Code": "CLI 28",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:56.980Z"
+    },
+    {
+      "id": 29,
+      "Client_Short_Name": "ISC",
+      "Client_Formal_Name": "Isolux",
+      "Client_Code": "CLI 29",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:56.980Z"
+    },
+    {
+      "id": 30,
+      "Client_Short_Name": "JA",
+      "Client_Formal_Name": "JA Solar",
+      "Client_Code": "CLI 30",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:56.980Z"
+    },
+    {
+      "id": 19,
+      "Client_Short_Name": "EON",
+      "Client_Formal_Name": "E.ON SE",
+      "Client_Code": "CLI 19",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:56.980Z"
+    },
+    {
+      "id": 20,
+      "Client_Short_Name": "Fortum",
+      "Client_Formal_Name": "Fortum",
+      "Client_Code": "CLI 20",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:56.980Z"
+    },
+    {
+      "id": 21,
+      "Client_Short_Name": "FRV",
+      "Client_Formal_Name": "Fotowatio Renewable VenturesÂ ",
+      "Client_Code": "CLI 21",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:56.980Z"
+    },
+    {
+      "id": 22,
+      "Client_Short_Name": "FST",
+      "Client_Formal_Name": "Foresight",
+      "Client_Code": "CLI 22",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:56.980Z"
+    },
+    {
+      "id": 23,
+      "Client_Short_Name": "GE",
+      "Client_Formal_Name": "General Electric",
+      "Client_Code": "CLI 23",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:56.980Z"
+    },
+    {
+      "id": 24,
+      "Client_Short_Name": "GOLDBECK",
+      "Client_Formal_Name": "GOLDBECK",
+      "Client_Code": "CLI 24",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:56.980Z"
+    },
+    {
+      "id": 13,
+      "Client_Short_Name": "CTZ",
+      "Client_Formal_Name": "Citizens Energy",
+      "Client_Code": "CLI 13",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:56.980Z"
+    },
+    {
+      "id": 14,
+      "Client_Short_Name": "DPC",
+      "Client_Formal_Name": "DEPCOM Power",
+      "Client_Code": "CLI 14",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:56.980Z"
+    },
+    {
+      "id": 15,
+      "Client_Short_Name": "EDPR",
+      "Client_Formal_Name": "EDP Renewables",
+      "Client_Code": "CLI 15",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:56.980Z"
+    },
+    {
+      "id": 16,
+      "Client_Short_Name": "ELC",
+      "Client_Formal_Name": "Elecnor",
+      "Client_Code": "CLI 16",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:56.980Z"
+    },
+    {
+      "id": 17,
+      "Client_Short_Name": "ELSE",
+      "Client_Formal_Name": "ELSE Enerji",
+      "Client_Code": "CLI 17",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:56.980Z"
+    },
+    {
+      "id": 18,
+      "Client_Short_Name": "ENG",
+      "Client_Formal_Name": "Engie",
+      "Client_Code": "CLI 18",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:56.980Z"
+    },
+    {
+      "id": 7,
+      "Client_Short_Name": "BSR",
+      "Client_Formal_Name": "Bowen & Stalbridge",
+      "Client_Code": "CLI 07",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:56.980Z"
+    },
+    {
+      "id": 8,
+      "Client_Short_Name": "CCR",
+      "Client_Formal_Name": "Cypress Creek Renewables",
+      "Client_Code": "CLI 08",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:56.980Z"
+    },
+    {
+      "id": 9,
+      "Client_Short_Name": "CEA",
+      "Client_Formal_Name": "Clean Energy Associates",
+      "Client_Code": "CLI 09",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:56.980Z"
+    },
+    {
+      "id": 10,
+      "Client_Short_Name": "CLE",
+      "Client_Formal_Name": "Clenera",
+      "Client_Code": "CLI 10",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:56.980Z"
+    },
+    {
+      "id": 11,
+      "Client_Short_Name": "CLX",
+      "Client_Formal_Name": "Cleanmax",
+      "Client_Code": "CLI 11",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:56.980Z"
+    },
+    {
+      "id": 12,
+      "Client_Short_Name": "CSI",
+      "Client_Formal_Name": "Canadian Solar",
+      "Client_Code": "CLI 12",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:56.980Z"
+    },
+    {
+      "id": 183,
+      "Client_Short_Name": "mjr",
+      "Client_Formal_Name": "mjrao65",
+      "Client_Code": "mj65",
+      "CreatedBy": "Anurag Rao",
+      "CreateDate": "2019-04-29T09:11:44.627Z"
+    }
+  ],
+  "suppliers": [
+    {
+      "SupplierID": 1,
+      "Supplier": "Astronergy",
+      "Supplier_Code": "SUP 01",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.013Z"
+    },
+    {
+      "SupplierID": 2,
+      "Supplier": "Boviet",
+      "Supplier_Code": "SUP 02",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.013Z"
+    },
+    {
+      "SupplierID": 3,
+      "Supplier": "BYD",
+      "Supplier_Code": "SUP 03",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.013Z"
+    },
+    {
+      "SupplierID": 4,
+      "Supplier": "CSI",
+      "Supplier_Code": "SUP 04",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.013Z"
+    },
+    {
+      "SupplierID": 5,
+      "Supplier": "ET",
+      "Supplier_Code": "SUP 05",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.013Z"
+    },
+    {
+      "SupplierID": 6,
+      "Supplier": "Hanwha",
+      "Supplier_Code": "SUP 06",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.013Z"
+    },
+    {
+      "SupplierID": 37,
+      "Supplier": "Jinergy",
+      "Supplier_Code": "SUP 37",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.013Z"
+    },
+    {
+      "SupplierID": 38,
+      "Supplier": "OPES",
+      "Supplier_Code": "SUP 38",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.013Z"
+    },
+    {
+      "SupplierID": 31,
+      "Supplier": "Amerisolar",
+      "Supplier_Code": "SUP 31",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.013Z"
+    },
+    {
+      "SupplierID": 32,
+      "Supplier": "Csun",
+      "Supplier_Code": "SUP 32",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.013Z"
+    },
+    {
+      "SupplierID": 33,
+      "Supplier": "Voltec",
+      "Supplier_Code": "SUP 33",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.013Z"
+    },
+    {
+      "SupplierID": 34,
+      "Supplier": "Fullstar",
+      "Supplier_Code": "SUP 34",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.013Z"
+    },
+    {
+      "SupplierID": 35,
+      "Supplier": "Schmid",
+      "Supplier_Code": "SUP 35",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.013Z"
+    },
+    {
+      "SupplierID": 36,
+      "Supplier": "HT-SAAE",
+      "Supplier_Code": "SUP 36",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.013Z"
+    },
+    {
+      "SupplierID": 25,
+      "Supplier": "Risen",
+      "Supplier_Code": "SUP 25",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.013Z"
+    },
+    {
+      "SupplierID": 26,
+      "Supplier": "GCL",
+      "Supplier_Code": "SUP 26",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.013Z"
+    },
+    {
+      "SupplierID": 27,
+      "Supplier": "Waaree",
+      "Supplier_Code": "SUP 27",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.013Z"
+    },
+    {
+      "SupplierID": 28,
+      "Supplier": "Znshine",
+      "Supplier_Code": "SUP 28",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.013Z"
+    },
+    {
+      "SupplierID": 29,
+      "Supplier": "DAH",
+      "Supplier_Code": "SUP 29",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.013Z"
+    },
+    {
+      "SupplierID": 30,
+      "Supplier": "Seraphim",
+      "Supplier_Code": "SUP 30",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.013Z"
+    },
+    {
+      "SupplierID": 19,
+      "Supplier": "Sillia",
+      "Supplier_Code": "SUP 19",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.013Z"
+    },
+    {
+      "SupplierID": 20,
+      "Supplier": "Adani",
+      "Supplier_Code": "SUP 20",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.013Z"
+    },
+    {
+      "SupplierID": 21,
+      "Supplier": "Vikram",
+      "Supplier_Code": "SUP 21",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.013Z"
+    },
+    {
+      "SupplierID": 22,
+      "Supplier": "VSUN",
+      "Supplier_Code": "SUP 22",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.013Z"
+    },
+    {
+      "SupplierID": 23,
+      "Supplier": "Solarland",
+      "Supplier_Code": "SUP 23",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.013Z"
+    },
+    {
+      "SupplierID": 24,
+      "Supplier": "Heliene",
+      "Supplier_Code": "SUP 24",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.013Z"
+    },
+    {
+      "SupplierID": 13,
+      "Supplier": "TSL",
+      "Supplier_Code": "SUP 13",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.013Z"
+    },
+    {
+      "SupplierID": 14,
+      "Supplier": "YGE",
+      "Supplier_Code": "SUP 14",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.013Z"
+    },
+    {
+      "SupplierID": 15,
+      "Supplier": "Tata",
+      "Supplier_Code": "SUP 15",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.013Z"
+    },
+    {
+      "SupplierID": 16,
+      "Supplier": "Emmvee",
+      "Supplier_Code": "SUP 16",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.013Z"
+    },
+    {
+      "SupplierID": 17,
+      "Supplier": "Suntech",
+      "Supplier_Code": "SUP 17",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.013Z"
+    },
+    {
+      "SupplierID": 18,
+      "Supplier": "Longi",
+      "Supplier_Code": "SUP 18",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.013Z"
+    },
+    {
+      "SupplierID": 7,
+      "Supplier": "JA",
+      "Supplier_Code": "SUP 07",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.013Z"
+    },
+    {
+      "SupplierID": 8,
+      "Supplier": "Jetion",
+      "Supplier_Code": "SUP 08",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.013Z"
+    },
+    {
+      "SupplierID": 9,
+      "Supplier": "JKS",
+      "Supplier_Code": "SUP 09",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.013Z"
+    },
+    {
+      "SupplierID": 10,
+      "Supplier": "NSP",
+      "Supplier_Code": "SUP 10",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.013Z"
+    },
+    {
+      "SupplierID": 11,
+      "Supplier": "Phono",
+      "Supplier_Code": "SUP 11",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.013Z"
+    },
+    {
+      "SupplierID": 12,
+      "Supplier": "Talesun",
+      "Supplier_Code": "SUP 12",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.013Z"
+    },
+    {
+      "SupplierID": 62,
+      "Supplier": "mjrao",
+      "Supplier_Code": "mj65",
+      "CreatedBy": "Anurag Rao",
+      "CreateDate": "2019-04-29T09:12:38.253Z"
+    },
+    {
+      "SupplierID": 63,
+      "Supplier": "mjrao",
+      "Supplier_Code": "mj65",
+      "CreatedBy": "Anurag Rao",
+      "CreateDate": "2019-04-29T09:12:49.153Z"
+    },
+    {
+      "SupplierID": 64,
+      "Supplier": "mjrao",
+      "Supplier_Code": "mj65",
+      "CreatedBy": "Anurag Rao",
+      "CreateDate": "2019-04-29T10:37:58.400Z"
+    },
+    {
+      "SupplierID": 65,
+      "Supplier": "mjrao",
+      "Supplier_Code": "mj65",
+      "CreatedBy": "Anurag Rao",
+      "CreateDate": "2019-04-29T10:37:58.437Z"
+    },
+    {
+      "SupplierID": 66,
+      "Supplier": "dude",
+      "Supplier_Code": "fbb",
+      "CreatedBy": "Anurag Rao",
+      "CreateDate": "2019-04-29T10:59:44.940Z"
+    }
+  ],
+  "factroies": [
+    {
+      "FactoryID": 1,
+      "Factory_Short_Name": "Astron Flex Joh",
+      "Factory_Formal_Name": "Astronergy Flex Johor Bahru",
+      "Factory_Code": "LOC 01",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 2,
+      "Factory_Short_Name": "Astron OWN Fra",
+      "Factory_Formal_Name": "Astronergy OWN Frankfurt Oder",
+      "Factory_Code": "LOC 02",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 3,
+      "Factory_Short_Name": "Astron OWN Han",
+      "Factory_Formal_Name": "Astronergy OWN Hangzhou",
+      "Factory_Code": "LOC 03",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 4,
+      "Factory_Short_Name": "Boviet OWN Bac",
+      "Factory_Formal_Name": "Boviet OWN Bac Giang",
+      "Factory_Code": "LOC 04",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 5,
+      "Factory_Short_Name": "BYD EQPV Wux",
+      "Factory_Formal_Name": "BYD EQPV Wuxi",
+      "Factory_Code": "LOC 05",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 6,
+      "Factory_Short_Name": "BYD Erqu Cha",
+      "Factory_Formal_Name": "BYD Erquan Changzhou",
+      "Factory_Code": "LOC 06",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 115,
+      "Factory_Short_Name": "OPES OWN Cha",
+      "Factory_Formal_Name": "OPES OWN Changzhou",
+      "Factory_Code": "LOC 122",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 109,
+      "Factory_Short_Name": "JA OWN Xin",
+      "Factory_Formal_Name": "JA OWN Xingtai",
+      "Factory_Code": "LOC 116",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 110,
+      "Factory_Short_Name": "Jinerg TSL Cha",
+      "Factory_Formal_Name": "Jinergy TSL Changzhou",
+      "Factory_Code": "LOC 117",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 111,
+      "Factory_Short_Name": "Jinerg OWN Lvl",
+      "Factory_Formal_Name": "Jinergy OWN Lvliang",
+      "Factory_Code": "LOC 118",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 112,
+      "Factory_Short_Name": "Jinerg OWN Jin",
+      "Factory_Formal_Name": "Jinergy OWN Jinzhong",
+      "Factory_Code": "LOC 119",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 113,
+      "Factory_Short_Name": "CSI OWN Suz",
+      "Factory_Formal_Name": "CSI OWN Suzhou",
+      "Factory_Code": "LOC 120",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 114,
+      "Factory_Short_Name": "Phono Vina Bac",
+      "Factory_Formal_Name": "Phono Vina Bac Giang",
+      "Factory_Code": "LOC 121",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 103,
+      "Factory_Short_Name": "JKS OWN Yuh",
+      "Factory_Formal_Name": "JKS OWN Yuhuan",
+      "Factory_Code": "LOC 110",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 104,
+      "Factory_Short_Name": "Suntec OWN Cha",
+      "Factory_Formal_Name": "Suntech OWN Changzhou",
+      "Factory_Code": "LOC 111",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 105,
+      "Factory_Short_Name": "GCL OWN Zha",
+      "Factory_Formal_Name": "GCL OWN Zhangjiagang",
+      "Factory_Code": "LOC 112",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 106,
+      "Factory_Short_Name": "Longi OWN Tai",
+      "Factory_Formal_Name": "Longi OWN Taizhou",
+      "Factory_Code": "LOC 113",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 107,
+      "Factory_Short_Name": "JKS OWN Yan",
+      "Factory_Formal_Name": "JKS OWN Yangzhou",
+      "Factory_Code": "LOC 114",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 108,
+      "Factory_Short_Name": "CSI OWN Luo",
+      "Factory_Formal_Name": "CSI OWN Luoyang",
+      "Factory_Code": "LOC 115",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 97,
+      "Factory_Short_Name": "Risen Ligh Bao",
+      "Factory_Formal_Name": "Risen Lightway Baoding",
+      "Factory_Code": "LOC 104",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 98,
+      "Factory_Short_Name": "Risen Linu Jin",
+      "Factory_Formal_Name": "Risen Linuo Jinan",
+      "Factory_Code": "LOC 105",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 99,
+      "Factory_Short_Name": "Risen Soko Nin",
+      "Factory_Formal_Name": "Risen Soko Ningbo",
+      "Factory_Code": "LOC 106",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 100,
+      "Factory_Short_Name": "Risen QS Nan",
+      "Factory_Formal_Name": "Risen QS Nantong",
+      "Factory_Code": "LOC 107",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 101,
+      "Factory_Short_Name": "Risen Shen Jia",
+      "Factory_Formal_Name": "Risen Shengtai Jiaxing",
+      "Factory_Code": "LOC 108",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 102,
+      "Factory_Short_Name": "Risen Sonq Nin",
+      "Factory_Formal_Name": "Risen Sonq Ningbo",
+      "Factory_Code": "LOC 109",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 91,
+      "Factory_Short_Name": "Phono OWN Yan",
+      "Factory_Formal_Name": "Phono OWN Yancheng",
+      "Factory_Code": "LOC 96",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 92,
+      "Factory_Short_Name": "Fullst OWN Don",
+      "Factory_Formal_Name": "Fullstar OWN Dongtai",
+      "Factory_Code": "LOC 99",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 93,
+      "Factory_Short_Name": "Fullst OWN Nin",
+      "Factory_Formal_Name": "Fullstar OWN Ningbo",
+      "Factory_Code": "LOC 100",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 94,
+      "Factory_Short_Name": "Schmid OWN Duz",
+      "Factory_Formal_Name": "Schmid OWN Duzce",
+      "Factory_Code": "LOC 101",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 95,
+      "Factory_Short_Name": "HT-SAA OWN Ist",
+      "Factory_Formal_Name": "HT-SAAE OWN Istanbul",
+      "Factory_Code": "LOC 102",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 96,
+      "Factory_Short_Name": "Risen Focu Nan",
+      "Factory_Formal_Name": "Risen Focus Nantong",
+      "Factory_Code": "LOC 103",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 85,
+      "Factory_Short_Name": "Ameris Infi Hai",
+      "Factory_Formal_Name": "Amerisolar Infisolar Haimen",
+      "Factory_Code": "LOC 90",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 86,
+      "Factory_Short_Name": "Ameris OWN Rug",
+      "Factory_Formal_Name": "Amerisolar OWN Rugao",
+      "Factory_Code": "LOC 91",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 87,
+      "Factory_Short_Name": "Csun Vina Bac",
+      "Factory_Formal_Name": "Csun Vina Bac Giang",
+      "Factory_Code": "LOC 92",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 88,
+      "Factory_Short_Name": "Csun Sola Ba",
+      "Factory_Formal_Name": "Csun SolarBK Ba Ria-Vung Tau",
+      "Factory_Code": "LOC 93",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 89,
+      "Factory_Short_Name": "Voltec OWN Din",
+      "Factory_Formal_Name": "Voltec OWN Dinsheim-sur-Bruche",
+      "Factory_Code": "LOC 94",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 90,
+      "Factory_Short_Name": "Risen Jine Tai",
+      "Factory_Formal_Name": "Risen Jinergy Taiyuan",
+      "Factory_Code": "LOC 95",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 79,
+      "Factory_Short_Name": "Waaree OWN Sur",
+      "Factory_Formal_Name": "Waaree OWN Surat",
+      "Factory_Code": "LOC 82",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 80,
+      "Factory_Short_Name": "Znshin OWN Cha",
+      "Factory_Formal_Name": "Znshine OWN Changzhou",
+      "Factory_Code": "LOC 83",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 81,
+      "Factory_Short_Name": "DAH OWN Hef",
+      "Factory_Formal_Name": "DAH OWN Hefei",
+      "Factory_Code": "LOC 84",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 82,
+      "Factory_Short_Name": "Astron Sola Wux",
+      "Factory_Formal_Name": "Astronergy Solarland Wuxi",
+      "Factory_Code": "LOC 85",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 83,
+      "Factory_Short_Name": "BYD Hait Hai",
+      "Factory_Formal_Name": "BYD Haitai Haiphong",
+      "Factory_Code": "LOC 86",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 84,
+      "Factory_Short_Name": "Seraph Infi Fuk",
+      "Factory_Formal_Name": "Seraphim Infini Fukushima",
+      "Factory_Code": "LOC 87",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 73,
+      "Factory_Short_Name": "Helien Amer Rug",
+      "Factory_Formal_Name": "Heliene Amerisolar Rugao",
+      "Factory_Code": "LOC 76",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 74,
+      "Factory_Short_Name": "Risen OWN Nin",
+      "Factory_Formal_Name": "Risen OWN Ningbo",
+      "Factory_Code": "LOC 77",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 75,
+      "Factory_Short_Name": "GCL OWN Yan",
+      "Factory_Formal_Name": "GCL OWN Yancheng",
+      "Factory_Code": "LOC 78",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 76,
+      "Factory_Short_Name": "Astron OWN Hai",
+      "Factory_Formal_Name": "Astronergy OWN Haining",
+      "Factory_Code": "LOC 79",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 77,
+      "Factory_Short_Name": "Helien Infi Hai",
+      "Factory_Formal_Name": "Heliene Infisolar Haimen",
+      "Factory_Code": "LOC 80",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 78,
+      "Factory_Short_Name": "Helien OWN Sau",
+      "Factory_Formal_Name": "Heliene OWN Sault Ste. Marie",
+      "Factory_Code": "LOC 81",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 67,
+      "Factory_Short_Name": "Vikram OWN Kol",
+      "Factory_Formal_Name": "Vikram OWN Kolkata",
+      "Factory_Code": "LOC 70",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 68,
+      "Factory_Short_Name": "VSUN OWN Bac",
+      "Factory_Formal_Name": "VSUN OWN Bac Giang",
+      "Factory_Code": "LOC 71",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 69,
+      "Factory_Short_Name": "Longi OWN Kuc",
+      "Factory_Formal_Name": "Longi OWN Kuching",
+      "Factory_Code": "LOC 72",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 70,
+      "Factory_Short_Name": "Solarl OWN Wux",
+      "Factory_Formal_Name": "Solarland OWN Wuxi",
+      "Factory_Code": "LOC 73",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 71,
+      "Factory_Short_Name": "BYD OWN Shan",
+      "Factory_Formal_Name": "BYD OWN Shangluo",
+      "Factory_Code": "LOC 74",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 72,
+      "Factory_Short_Name": "JA OWN Nin",
+      "Factory_Formal_Name": "JA OWN Ningjin",
+      "Factory_Code": "LOC 75",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 61,
+      "Factory_Short_Name": "YGE OWN Hai",
+      "Factory_Formal_Name": "YGE OWN Hainan",
+      "Factory_Code": "LOC 64",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 62,
+      "Factory_Short_Name": "Longi OWN Quz",
+      "Factory_Formal_Name": "Longi OWN Quzhou",
+      "Factory_Code": "LOC 65",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 63,
+      "Factory_Short_Name": "YGE OWN Tia",
+      "Factory_Formal_Name": "YGE OWN Tianjin",
+      "Factory_Code": "LOC 66",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 64,
+      "Factory_Short_Name": "Sillia OWN Lan",
+      "Factory_Formal_Name": "Sillia OWN Lannion",
+      "Factory_Code": "LOC 67",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 65,
+      "Factory_Short_Name": "JKS Bovi Bac",
+      "Factory_Formal_Name": "JKS Boviet Bac Giang",
+      "Factory_Code": "LOC 68",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 66,
+      "Factory_Short_Name": "Adani OWN Mun",
+      "Factory_Formal_Name": "Adani OWN Mundra",
+      "Factory_Code": "LOC 69",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 55,
+      "Factory_Short_Name": "TSL Runr Jia",
+      "Factory_Formal_Name": "TSL Runrong Jiangyin",
+      "Factory_Code": "LOC 58",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 56,
+      "Factory_Short_Name": "TSL Geol Lia",
+      "Factory_Formal_Name": "TSL Geolite Lianyungang",
+      "Factory_Code": "LOC 59",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 57,
+      "Factory_Short_Name": "TSL Peng Nan",
+      "Factory_Formal_Name": "TSL Pengneng Nantong",
+      "Factory_Code": "LOC 60",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 58,
+      "Factory_Short_Name": "TSL Linu Jin",
+      "Factory_Formal_Name": "TSL Linuo Jinan",
+      "Factory_Code": "LOC 61",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 59,
+      "Factory_Short_Name": "TSL Ding Zha",
+      "Factory_Formal_Name": "TSL Dingxinsheng Zhangjiagang",
+      "Factory_Code": "LOC 62",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 60,
+      "Factory_Short_Name": "YGE OWN Bao",
+      "Factory_Formal_Name": "YGE OWN Baoding",
+      "Factory_Code": "LOC 63",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 49,
+      "Factory_Short_Name": "TSL OWN Cha",
+      "Factory_Formal_Name": "TSL OWN Changzhou",
+      "Factory_Code": "LOC 51",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 50,
+      "Factory_Short_Name": "TSL OWN Hef",
+      "Factory_Formal_Name": "TSL OWN Hefei",
+      "Factory_Code": "LOC 52",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 51,
+      "Factory_Short_Name": "TSL OWN Ray",
+      "Factory_Formal_Name": "TSL OWN Rayong",
+      "Factory_Code": "LOC 53",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 52,
+      "Factory_Short_Name": "TSL OWN Yan",
+      "Factory_Formal_Name": "TSL OWN Yancheng",
+      "Factory_Code": "LOC 55",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 53,
+      "Factory_Short_Name": "TSL Vina Bac",
+      "Factory_Formal_Name": "TSL Vina Bac Giang",
+      "Factory_Code": "LOC 56",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 54,
+      "Factory_Short_Name": "TSL Econ Jia",
+      "Factory_Formal_Name": "TSL Econess Jiangyin",
+      "Factory_Code": "LOC 57",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 43,
+      "Factory_Short_Name": "Phono OWN Don",
+      "Factory_Formal_Name": "Phono OWN Dongtai",
+      "Factory_Code": "LOC 44",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 44,
+      "Factory_Short_Name": "Suntec OWN Wux",
+      "Factory_Formal_Name": "Suntech OWN Wuxi",
+      "Factory_Code": "LOC 45",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 45,
+      "Factory_Short_Name": "Talesu OWN Cha",
+      "Factory_Formal_Name": "Talesun OWN Changshu",
+      "Factory_Code": "LOC 46",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 46,
+      "Factory_Short_Name": "Talesu OWN Ray",
+      "Factory_Formal_Name": "Talesun OWN Rayong",
+      "Factory_Code": "LOC 47",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 47,
+      "Factory_Short_Name": "Tata OWN Ben",
+      "Factory_Formal_Name": "Tata OWN Bengaluru",
+      "Factory_Code": "LOC 48",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 48,
+      "Factory_Short_Name": "TSL Flex Joh",
+      "Factory_Formal_Name": "TSL Flex Johor Bahru",
+      "Factory_Code": "LOC 50",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 37,
+      "Factory_Short_Name": "JKS OWN Sha",
+      "Factory_Formal_Name": "JKS OWN Shangrao",
+      "Factory_Code": "LOC 38",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 38,
+      "Factory_Short_Name": "JKS OWN Pen",
+      "Factory_Formal_Name": "JKS OWN Penang",
+      "Factory_Code": "LOC 39",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 39,
+      "Factory_Short_Name": "JKS Vina Bac",
+      "Factory_Formal_Name": "JKS Vina Bac Giang",
+      "Factory_Code": "LOC 40",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 40,
+      "Factory_Short_Name": "NSP Vina Bac",
+      "Factory_Formal_Name": "NSP Vina Bac Giang",
+      "Factory_Code": "LOC 41",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 41,
+      "Factory_Short_Name": "Phono Bovi Bac",
+      "Factory_Formal_Name": "Phono Boviet Bac Giang",
+      "Factory_Code": "LOC 42",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 42,
+      "Factory_Short_Name": "Phono OWN Nan",
+      "Factory_Formal_Name": "Phono OWN Nanjing",
+      "Factory_Code": "LOC 43",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 31,
+      "Factory_Short_Name": "JA OWN Hef",
+      "Factory_Formal_Name": "JA OWN Hefei",
+      "Factory_Code": "LOC 32",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 32,
+      "Factory_Short_Name": "JA Vina Bac",
+      "Factory_Formal_Name": "JA Vina Bac Giang",
+      "Factory_Code": "LOC 33",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 33,
+      "Factory_Short_Name": "Jetion GCL Zhe",
+      "Factory_Formal_Name": "Jetion GCL Zhenjiang",
+      "Factory_Code": "LOC 34",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 34,
+      "Factory_Short_Name": "Jetion OWN Wux",
+      "Factory_Formal_Name": "Jetion OWN Wuxi",
+      "Factory_Code": "LOC 35",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 35,
+      "Factory_Short_Name": "Jetion OWN Nan",
+      "Factory_Formal_Name": "Jetion OWN Nantong",
+      "Factory_Code": "LOC 36",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 36,
+      "Factory_Short_Name": "JKS OWN Hai",
+      "Factory_Formal_Name": "JKS OWN Haining",
+      "Factory_Code": "LOC 37",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 25,
+      "Factory_Short_Name": "ET Akco Zha",
+      "Factory_Formal_Name": "ET Akcome Zhangjiagang",
+      "Factory_Code": "LOC 26",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 26,
+      "Factory_Short_Name": "Hanwha OWN Eum",
+      "Factory_Formal_Name": "Hanwha OWN Eumseong",
+      "Factory_Code": "LOC 27",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 27,
+      "Factory_Short_Name": "Hanwha OWN Cyb",
+      "Factory_Formal_Name": "Hanwha OWN Cyberjaya",
+      "Factory_Code": "LOC 28",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 28,
+      "Factory_Short_Name": "Hanwha OWN Qid",
+      "Factory_Formal_Name": "Hanwha OWN Qidong",
+      "Factory_Code": "LOC 29",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 29,
+      "Factory_Short_Name": "JA Cele Si",
+      "Factory_Formal_Name": "JA Celestica Si Racha",
+      "Factory_Code": "LOC 30",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 30,
+      "Factory_Short_Name": "JA OWN Sha",
+      "Factory_Formal_Name": "JA OWN Shanghai",
+      "Factory_Code": "LOC 31",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 19,
+      "Factory_Short_Name": "BYD Yinh Yix",
+      "Factory_Formal_Name": "BYD Yinhuan Yixing",
+      "Factory_Code": "LOC 20",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 20,
+      "Factory_Short_Name": "CSI OWN Cha",
+      "Factory_Formal_Name": "CSI OWN Changshu",
+      "Factory_Code": "LOC 21",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 21,
+      "Factory_Short_Name": "CSI OWN Cho",
+      "Factory_Formal_Name": "CSI OWN Chon Buri",
+      "Factory_Code": "LOC 22",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 22,
+      "Factory_Short_Name": "CSI Vina Bac",
+      "Factory_Formal_Name": "CSI Vina Bac Giang",
+      "Factory_Code": "LOC 23",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 23,
+      "Factory_Short_Name": "Emmvee OWN Ben",
+      "Factory_Formal_Name": "Emmvee OWN Bengaluru",
+      "Factory_Code": "LOC 24",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 24,
+      "Factory_Short_Name": "ET OWN Tai",
+      "Factory_Formal_Name": "ET OWN Taizhou",
+      "Factory_Code": "LOC 25",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 13,
+      "Factory_Short_Name": "BYD Rund Wux",
+      "Factory_Formal_Name": "BYD Runda Wuxi",
+      "Factory_Code": "LOC 14",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 14,
+      "Factory_Short_Name": "BYD Sera Cha",
+      "Factory_Formal_Name": "BYD Seraphim Changzhou",
+      "Factory_Code": "LOC 15",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 15,
+      "Factory_Short_Name": "BYD SSPV Sha",
+      "Factory_Formal_Name": "BYD SSPV Shaoxing",
+      "Factory_Code": "LOC 16",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 16,
+      "Factory_Short_Name": "BYD Sunt Wux",
+      "Factory_Formal_Name": "BYD Suntech Wuxi",
+      "Factory_Code": "LOC 17",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 17,
+      "Factory_Short_Name": "BYD Tita Wuh",
+      "Factory_Formal_Name": "BYD Titan Wuhu",
+      "Factory_Code": "LOC 18",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 18,
+      "Factory_Short_Name": "BYD WHPV Wuh",
+      "Factory_Formal_Name": "BYD WHPV Wuhu",
+      "Factory_Code": "LOC 19",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 7,
+      "Factory_Short_Name": "BYD GPPV Cha",
+      "Factory_Formal_Name": "BYD GPPV Changzhou",
+      "Factory_Code": "LOC 07",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 8,
+      "Factory_Short_Name": "BYD Hait Tan",
+      "Factory_Formal_Name": "BYD Haitai Tangshan",
+      "Factory_Code": "LOC 08",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 9,
+      "Factory_Short_Name": "BYD OWN Sha",
+      "Factory_Formal_Name": "BYD OWN Shanghai",
+      "Factory_Code": "LOC 09",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 10,
+      "Factory_Short_Name": "BYD Phon Nan",
+      "Factory_Formal_Name": "BYD Phono Nanjing",
+      "Factory_Code": "LOC 10",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 11,
+      "Factory_Short_Name": "BYD QXPV Nin",
+      "Factory_Formal_Name": "BYD QXPV Ningbo",
+      "Factory_Code": "LOC 11",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 12,
+      "Factory_Short_Name": "BYD Risu Suz",
+      "Factory_Formal_Name": "BYD Risun Suzhou",
+      "Factory_Code": "LOC 12",
+      "CreatedBy": "Clark Maine",
+      "CreateDate": "2018-10-28T19:49:57.060Z"
+    },
+    {
+      "FactoryID": 177,
+      "Factory_Short_Name": "mjr",
+      "Factory_Formal_Name": "mjrao65",
+      "Factory_Code": "undefined",
+      "CreatedBy": "Anurag Rao",
+      "CreateDate": "2019-04-29T09:10:54.157Z"
+    },
+    {
+      "FactoryID": 178,
+      "Factory_Short_Name": "mjr",
+      "Factory_Formal_Name": "mjrao65",
+      "Factory_Code": "undefined",
+      "CreatedBy": "Anurag Rao",
+      "CreateDate": "2019-04-29T09:11:05.450Z"
+    }
+  ]
+}
