@@ -5,7 +5,7 @@ import './App.css';
 
 import authProvider from './authProvider';
 import themeReducer from './themeReducer';
-import { Login, Layout } from './layout';
+import { Layout } from './layout';
 import customRoutes from './routes';
 import englishMessages from './i18n/en';
 
@@ -56,7 +56,7 @@ class App extends Component {
         customRoutes={customRoutes}
         authProvider={authProvider}
         // dashboard={Dashboard}
-        loginPage={Login}
+        loginPage={false}
         appLayout={Layout}
         locale="en"
         i18nProvider={i18nProvider}
